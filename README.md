@@ -1,2 +1,2 @@
 # demo
-This is Demo repository to learn Git and Git hub
+This is Demo repository to learn Git and Git hub.
